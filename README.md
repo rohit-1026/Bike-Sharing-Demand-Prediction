@@ -45,6 +45,8 @@ Correlation Analysis : We plot the heatmap to find the correlation between both 
 
 Train test Split : In train test split we take ‘x’ as dependent variables and ‘y’ take as independent variable then train the model.
 
+## Correlation Analysis
+
 <img width="943" alt="Screenshot 2022-11-18 at 7 14 28 PM" src="https://user-images.githubusercontent.com/111069324/202718861-d1828049-e67d-4efb-9b70-5d370a79ca93.png">
 
 
