@@ -58,3 +58,22 @@ It is observed that highest number bike rentals counts in Autumn/fall Summer Sea
 We observed that the highest number of bike rentals on a clear day and the lowest on a snowy or rainy day.
 We observed that with increasing humidity, the number of bike rental counts decreases.
 Hour of the day holds most importance among all the features for prediction of dataset.
+
+# 📜 Credits
+
+Rohit Pawar | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+[![image](https://user-images.githubusercontent.com/95841292/202914376-d5a83f3d-110a-4476-896e-1da078b185dc.png)](https://www.linkedin.com/in/rohitpawar26/)
+[![image](https://user-images.githubusercontent.com/95841292/202914715-787f6ae3-d9f6-491c-9cae-c717131ddebd.png)](https://github.com/rohit-1026)
+[![image](https://user-images.githubusercontent.com/95841292/202914883-bce71634-6c2b-4305-8020-4b240cb76e41.png)](https://medium.com/@rohitpawar2610)
+[![image](https://user-images.githubusercontent.com/95841292/202914940-5d5eba71-e45d-4e95-8dfe-65e45d255aec.png)]()
+
+
+
+
+
+# 📚 References
+
+1.  GeekforGeeks
+2.  Kaggle
+3.  Analytics Vidya
